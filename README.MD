@@ -19,7 +19,7 @@ npm
 Installation & Running
 bash
 # Clone the repository
-git clone https://github.com/yourusername/prime-number-api.git
+git clone https://github.com/Saima113/primenumber.git
 cd prime-number-api
 
 # Install dependencies
