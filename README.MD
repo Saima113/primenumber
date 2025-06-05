@@ -20,7 +20,7 @@ Installation & Running
 bash
 # Clone the repository
 git clone https://github.com/Saima113/primenumber.git
-cd prime-number-api
+cd primenumber
 
 # Install dependencies
 npm install
@@ -53,17 +53,7 @@ Import the postman_collection.json file to test all endpoints.
 Test Results Screenshots
 Screenshot 1: Prime number test
 Screenshot 2: Non-prime number test
-Screenshot 3: Error handling
-Project Structure
-prime-number-api/
-├── server.js              # Main API server
-├── package.json           # Dependencies
-├── README.md             # This file
-├── postman_collection.json # Postman tests
-└── screenshots/          # Testing proof
-    ├── prime_test.png
-    ├── non_prime_test.png
-    └── error_test.png
+
 Algorithm Details
 The prime checking algorithm:
 
